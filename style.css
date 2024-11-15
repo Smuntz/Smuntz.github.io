@@ -9,6 +9,7 @@
 
  .flex-container h1 {
      margin-bottom: 20px;
+     font-size: 48px;
      /* Adds some space below the heading */
  }
 
@@ -22,12 +23,13 @@
 
  .flex-container button {
      margin-top: 20px;
-     height: 50px;
-     width: 100px;
+     height: 100px;
+     width: 200px;
      border-radius: 20px;
      background-color: #006cd7;
      color: white;
      border-color: white;
+     font-size: 24px;
  }
 
  .input-group {
@@ -38,9 +40,10 @@
  }
 
  .input-group label {
-     width: 150px;
+     width: 160px;
      /* Adjust width as needed */
      margin-right: 10px;
+     font-size: 18px;
  }
 
 
